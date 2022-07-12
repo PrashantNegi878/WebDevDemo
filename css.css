@@ -1,0 +1,28 @@
+body{
+    background-image: url(a.jpg);
+}
+
+header{
+    background: violet;
+    border-radius: 1%;
+}
+input{
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 5%;
+    width: 10%;
+    height: 50px;
+}
+
+input:hover{
+    background-color: red;
+}
+
+.a{
+    height: 20px;
+    background-color: aqua;
+}
+
+.b{
+    background-color: greenyellow;
+}
